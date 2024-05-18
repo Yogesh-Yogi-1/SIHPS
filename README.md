@@ -20,10 +20,14 @@ Our inspiration for creating the E-waste facility locator website stemmed from a
 
 ## Technology Stack
 Geocoding API for geographical coordinates
+
 PostgreSQL 15.4, MySQL 5.7.43 for database
+
 Jupyter Notebook 7.0.3 for image recognition using Tensorflow
 
 ## Dependencies
 Mapping Services – 12 Days
+
 Data Collection – 15 Days
+
 Estimated Budget – Rs.25,000
